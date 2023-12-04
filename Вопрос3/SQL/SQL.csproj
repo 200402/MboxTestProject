@@ -51,7 +51,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CreateAndFillTables - Копировать.sql" />
+    <Content Include="SelectRequest.sql" />
     <Content Include="CreateAndFillTables.sql" />
     <Content Include="Database1.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
